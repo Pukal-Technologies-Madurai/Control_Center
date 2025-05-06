@@ -1,0 +1,19 @@
+# V3
+
+SERVER=""
+DATABASE=""
+# DATABASE="ERP_LIVE_DB_PUKAL_TECH"
+# DATABASE="ERP_LIVE_DB_PUKAL_FOODS"
+USER=""
+PASSWORD=""
+userPortalDB=""
+
+COMPANY=""
+
+passwordKey=""
+
+    
+# domain="http://192.168.0.112:9001/"
+# domain="https://erpsmt.in/"
+
+NEXT_PUBLIC_API_URL=""
